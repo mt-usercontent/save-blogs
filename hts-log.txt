@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Oct 2023 13:48:18 at https://blog.vincss.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blog.vincss.net/ -O1 "C:\Users\HP\Downloads\TONG HOP BLOG\blog.vincss.net\blog.vincss.net" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:00:38	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2020/12/re018-2-analyzing-new-malware-of-china-panda-hacker-group-used-to-attack-supply-chain-against-vietnam-government-certification-authority.html (from https://blog.vincss.net/search/label/APT)
+14:02:34	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2022/04/re026-a-deep-dive-into-zloader-the-silent-night.html (from https://blog.vincss.net/search/label/Cyber Security Researches)
+14:02:40	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/08/ex007-how-playing-cs-go-helped-you-bypass-security-products.html (from https://blog.vincss.net/search/label/Cyber Security Researches)
+14:02:55	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/03/ex006-hanh-trinh-khai-thac-lo-hong-cve-2021-22986.html (from https://blog.vincss.net/search/label/Cyber Security Researches)
+14:02:55	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2020/12/pt008-vi-fuzzing-linux-kernel-voi-syzkaller.html (from https://blog.vincss.net/search/label/Cyber Security Researches)
+14:05:20	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/01/re019-phan-tich-tu-a-den-x-chien-dich-tan-cong-thuc-te-su-dung-Emotet-gan-day.html (from https://blog.vincss.net/search/label/Malware Analysis)
+14:14:28	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/05/re022-phan-1-phan-tich-nhanh-mau-ma-doc-gia-mao-cong-van-cua-uy-ban-kiem-tra-tw-VietNam.html?showComment=1630394131967 (from https://blog.vincss.net/2021/05/re022-phan-1-phan-tich-nhanh-mau-ma-doc-gia-mao-cong-van-cua-uy-ban-kiem-tra-tw-VietNam.html)
+14:14:30	Error: 	"Not Found" (404) at link https://blog.vincss.net/2020/12/-https://sudonull.com/post/89264-Visual-Studio-2015-Standard-Library-and-Telemetry (from https://blog.vincss.net/2020/12/re017-3-phan-tich-ky-thuat-dong-ma-doc-moi-co-nhieu-dau-hieu-lien-quan-toi-nhom-tin-tac-Panda.html)
+14:14:30	Error: 	"Not Found" (404) at link https://blog.vincss.net/2020/12/-https://docs.microsoft.com/en-us/windows/win32/tracelogging/trace-logging-portal (from https://blog.vincss.net/2020/12/re017-3-phan-tich-ky-thuat-dong-ma-doc-moi-co-nhieu-dau-hieu-lien-quan-toi-nhom-tin-tac-Panda.html)
+14:14:42	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2020/12/pt008-en-fuzzing-linux-kernel-with-syzkaller.html?showComment=1641893678533 (from https://blog.vincss.net/2020/12/pt008-en-fuzzing-linux-kernel-with-syzkaller.html)
+14:14:51	Error: 	"Not Found" (404) at link https://blog.vincss.net/2021/10/re025-trickbot-many-tricks_27.html (from https://blog.vincss.net/2021/10/re025-trickbot-many-tricks.html)
+14:14:52	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html?showComment=1621591095194 (from https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html)
+14:14:53	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html?showComment=1642224184660 (from https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html)
+14:14:54	Error: 	"Read error when decompressing" (-1) at link https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html?showComment=1642406788138 (from https://blog.vincss.net/2021/03/re021-qakbot-dangerous-malware-has-been-around-for-more-than-a-decade.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 45 seconds : 2562 links scanned, 2547 files written (275469228 bytes overall) [249782742 bytes received at 144801 bytes/sec], 36919393 bytes transferred using HTTP compression in 491 files, ratio 19%
+(14 errors, 0 warnings, 0 messages)
